@@ -1,2 +1,4 @@
-Suzano IT é uma empresa focada em teste e qualidade de software.
+## Suzano IT
+  Consultória especializada em testes manuais/automatizados e qualidade de software
+
 
